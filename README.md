@@ -9,32 +9,33 @@
 
 I am actively contributing to the intersection of **Quantum Physics** and **Artificial Intelligence**. Below are the key open-source projects I am leading or contributing to:
 
-#### 1. [QControlBench](https://github.com/Tsinghua-IAS/QControlBench) (Core Contributor)
-> *A Structured Benchmark for Evaluating Large Language Models on Quantum Control Tasks.*
+#### 1. [QControlLLM](https://github.com/Rodin1000/QcontrolLLM) (Core Contributor)
+> *QControlBench: A Structured Benchmark for Evaluating Large Language Models on Quantum Control Tasks.*
 >
 > **Status:** 📝 *Draft available (Target: Nature Machine Intelligence)* | 🏛️ *Lab: Tsinghua IAS (Prof. Di Luo)*
 
-I serve as the **Lead Developer** for this project, bridging quantum dynamics simulations with LLM inference.
+I serve as a **Core Developer** for this project, bridging quantum dynamics simulations with LLM inference.
 - **My Contribution:**
-  - **Architecture Design:** Co-designed the benchmark architecture to evaluate LLMs on optimal control tasks.
-  - **Algorithm Innovation:** Proposed and implemented the **"Logarithmic Infidelity Prompting"** mechanism to resolve LLM numerical precision issues in high-fidelity regimes (>99.99%).
-  - **Engineering:** Built the pipeline connecting **QuTiP** simulations with LLM agents, ensuring reproducibility and modularity.
+  - **Algorithm Innovation:** Implemented the **"Logarithmic Infidelity Prompting"** mechanism to resolve LLM numerical precision issues in high-fidelity regimes (>99.99%).
+  - **Engineering:** Built the evaluation pipeline connecting **QuTiP** simulations with LLM agents.
 
-#### 2. [SeePhys](https://github.com/Grounded-AI/SeePhys) (Contributor)
+#### 2. [SeePhys](https://github.com/AI4Phys/SeePhys) (Contributor)
 > *Does Seeing Help Thinking? Benchmarking Vision-Based Physics Reasoning.*
 >
 > **Status:** 🎉 *Accepted to **NeurIPS 2025** (Datasets & Benchmarks Track)* | 🏛️ *Lab: SYSU (Prof. Xiaodan Liang)*
 
 - **My Contribution:**
   - **Dataset Curation:** Curated high-quality physics reasoning datasets ranging from undergraduate to **Physics Olympiad** levels.
-  - **Evaluation Pipeline:** Designed rigorous automated scoring protocols to validate LLM reasoning chains against physical ground truths.
+  - **Evaluation Protocol:** Designed rigorous automated scoring metrics to validate LLM reasoning chains against physical ground truths.
 
-#### 3. Quantum Dynamics on Superconducting Qubits
-> *Research at SUSTech & Shenzhen International Quantum Academy.*
+#### 3. [Awesome-AI-for-Physics](https://github.com/AI4Phys/Awesome-AI-for-Physics) (Maintainer)
+> *Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI.*
+>
+> **Status:** 📚 *Under Review at **IEEE TPAMI***
 
 - **My Contribution:**
-  - Developed simulation frameworks using **Qiskit** to analyze measurement dynamics and transmon qubit operations.
-  - Established theoretical models for effective Hamiltonian calculations (Schrödingerization).
+  - Co-authored the "World Models" section of the survey.
+  - Maintaining the comprehensive resource list for the Physical AI community.
 
 ---
 
@@ -48,15 +49,13 @@ I serve as the **Lead Developer** for this project, bridging quantum dynamics si
 **AI & Machine Learning** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![WandB](https://img.shields.io/badge/-WandB-FFBE00?style=flat&logo=weightsandbiases&logoColor=white)
-![Jax](https://img.shields.io/badge/-Jax-00CC00?style=flat&logo=google&logoColor=white)
 
 **Quantum Computing** ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
 ![QuTiP](https://img.shields.io/badge/-QuTiP-FF6600?style=flat)
 ![PennyLane](https://img.shields.io/badge/-PennyLane-00BFFF?style=flat)
 
-**DevOps & Tools** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Tools** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
