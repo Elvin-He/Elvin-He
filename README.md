@@ -40,13 +40,19 @@ Dyndim explores whether a fault-tolerant system can dynamically move between cod
 
 ---
 
-#### 4. [QControlLLM](https://github.com/Rodin1000/QcontrolLLM) — AI for Quantum Control
-> *Large language models for reasoning and optimization in quantum-control tasks.*
+#### 4. VF-QCTRL — Physics-Informed LLMs for Quantum Control
 
-I contributed to the development of LLM-based quantum-control methods and evaluation infrastructure, including numerical representations for high-fidelity control regimes and simulation-based evaluation pipelines.
+> *A physics-informed large language model framework for general quantum control.*
 
-**Research themes:**  
-`Quantum Control` · `AI for Science` · `LLM Agents` · `QuTiP`
+**VF-QCTRL** combines symbolic physical reasoning with numerical optimization to construct and iteratively refine interpretable quantum control protocols. It is evaluated on **QCTRL-BENCH**, which spans a diverse range of closed/open, noiseless/noisy, and single-/multi-qubit quantum control tasks.
+
+I contributed to the development of the framework and its evaluation infrastructure, including methods for improving LLM numerical precision in high-fidelity control regimes and simulation-based quantum-control evaluation.
+
+📄 **Paper:** [*Toward General Quantum Control with Physics-Informed Large Language Models*](https://arxiv.org/abs/2605.26021) — **arXiv:2605.26021 (2026)**
+💻 **Code:** [QControlLLM](https://github.com/Rodin1000/QcontrolLLM)
+
+**Research themes:**
+`Quantum Control` · `Physics-Informed LLMs` · `AI for Quantum` · `Scientific Machine Learning`
 
 ---
 
