@@ -49,6 +49,7 @@ Dyndim explores whether a fault-tolerant system can dynamically move between cod
 I contributed to the development of the framework and its evaluation infrastructure, including methods for improving LLM numerical precision in high-fidelity control regimes and simulation-based quantum-control evaluation.
 
 📄 **Paper:** [*Toward General Quantum Control with Physics-Informed Large Language Models*](https://arxiv.org/abs/2605.26021) — **arXiv:2605.26021 (2026)**
+
 💻 **Code:** [QControlLLM](https://github.com/Rodin1000/QcontrolLLM)
 
 **Research themes:**
